@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    max-width: 700px;
+    font-family: monospace;
+    padding: 1rem;
+}
+
+a, a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: red;
+}
+
+ul {
+    padding-bottom: 1rem;
+}
+
+.wk-title {
+    text-transform: uppercase;
+    padding-bottom: 2rem;
+}
+
+.date-title {
+    padding-bottom: 1rem;
+}
+
+.title {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    text-transform: uppercase;
+}
+
+.exercise-description>p,
+.project-description>p,
+.tmr>p,
+.trip-description>p,
+.critique-description>p,
+.workshop-description>p {
+    padding-bottom: 1rem;
+}
