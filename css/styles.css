@@ -21,6 +21,10 @@ ul {
     padding-bottom: 1rem;
 }
 
+.wk {
+    display: inline-block;
+}
+
 .wk-title {
     text-transform: uppercase;
     padding-bottom: 2rem;
@@ -41,6 +45,7 @@ ul {
 .project-description>p,
 .tmr>p,
 .trip-description>p,
+.visitor-description>p,
 .critique-description>p,
 .workshop-description>p {
     padding-bottom: 1rem;
